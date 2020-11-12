@@ -1,24 +1,19 @@
-# ytfirebasevuechat
+# Firebase Vue.js Real-time Chat
 
-## Project setup
-```
-npm install
-```
+## Desenvolvido com
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- [Firebase](firebase)
+- [Vue.js](vuejs)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Referência
 
-### Lints and fixes files
-```
-npm run lint
-```
+- [Vue.js & Firebase Tutorial - Real-time Chat -  freeCodeCamp.org](reference)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Screenshot
+
+![screenshot](.github/screenshot.png)
+
+[firebase]: https://firebase.google.com/
+[vuejs]: https://vuejs.org/
+[reference]: https://www.youtube.com/watch?v=ifOzAyR1cG4
+

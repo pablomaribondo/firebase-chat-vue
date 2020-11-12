@@ -19,7 +19,9 @@ export default {
 
       try {
         const result = await firebase.auth().signInWithPopup(provider);
+        // eslint-disable-next-line no-unused-vars
         const token = result.credential.accessToken;
+        // eslint-disable-next-line no-unused-vars
         const { user } = result;
 
         this.$router.push('/');
