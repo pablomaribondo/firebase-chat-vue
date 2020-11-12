@@ -2,12 +2,12 @@
 
 ## Desenvolvido com
 
-- [Firebase](firebase)
-- [Vue.js](vuejs)
+- [Firebase][firebase]
+- [Vue.js][vuejs]
 
 ## Referência
 
-- [Vue.js & Firebase Tutorial - Real-time Chat -  freeCodeCamp.org](reference)
+- [Vue.js & Firebase Tutorial - Real-time Chat -  freeCodeCamp.org][reference]
 
 ## Screenshot
 
